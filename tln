@@ -5,3 +5,6 @@ http://mariocs.latino-webtv.com:2048/livexd/221_.m3u8
 
 #EXTINF:-1,telemundo Dallas
 http://edge.abcast.net:8081/edge/ver1247c4e668e5fa1ed40e5aed73b5a382/chunks.m3u8?nimblesessionid=134153&wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMTggNDo0NTozNCBBTSZoYXNoX3ZhbHVlPXk1VTBJZjMwdTRiNUpjaXJybHpkNkE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+
+#EXTINF:-1, DISTRITO COMEDIA
+http://s5.latinowebtv.ga:2082/livelwtv/224.m3u8?token=wb5GqS4FaLyrGO_IdXEkSw&expires=1525781489
