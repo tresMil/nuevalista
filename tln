@@ -8,3 +8,7 @@ http://edge.abcast.net:8081/edge/ver1247c4e668e5fa1ed40e5aed73b5a382/chunks.m3u8
 
 #EXTINF:-1, DISTRITO COMEDIA
 http://s5.latinowebtv.ga:2082/livelwtv/224.m3u8?token=wb5GqS4FaLyrGO_IdXEkSw&expires=1525781489
+
+
+#EXTINF:-1, Disney Chanell
+http://2202.janjuaplayer.com:8088/live/disneycristina/playlist.m3u8?id=78156&wowzasessionid=149480513&pk=ce6fbdb8c29b7efcaf79be0d977bbbb170ddf101b8efec5b2a229e9a7f3c888e
