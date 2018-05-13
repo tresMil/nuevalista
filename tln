@@ -1,69 +1,84 @@
 #EXTM3U
  
 #EXTINF:-1,TLNOVELAS
-http://s6.latinowebtv.ga:2082/livelwtv/221.m3u8?token=3yIEpAbtVEYG_AB-lJUStw&expires=1526173008
+http://s1.latinowebtv.ga:2082/livelwtv/221.m3u8?token=_Cej2jHeYah9HpqnU8Ni4Q&expires=1526251989
 
 
 #EXTINF:-1,TLNOVELAS opt2
-http://s4.latinowebtv.ga:2082/livelwtv/221.m3u8?token=OA6FTpsBNIFqsD95V-3gQg&expires=1526173221
+http://s1.latinowebtv.ga:2082/livelwtv/221.m3u8?token=_Cej2jHeYah9HpqnU8Ni4Q&expires=1526251989
 
 
 
 
 #EXTINF:-1,telemundo HD 
-http://dp-4034.datalink.cl:25461/live/5RUTvfRf3/mD2fb0Y3z1/3706.m3u8?token=QhpRUUoMEw4VAQNWBARZUQhTBFECWVUDBwoNBlUCW1UOWlwAWFRTVVFBH0BAREoDUAxqClFDDVEECAIaEUZKVktnUFQbXhMAAlALQB8STA9cBBdZBU0VElpcFgwRAQoADggbHBsBSUBSEV0DX29cA0cIVgYXW1kXX1QYFFxdZldcVVheXUYLFgdBH0BaQ0hEC0NgDVwPUhYTaxp3HRNdVhl7F2YXRh0WVQpHEFJEXUQLQwZQB1kVThFbW0NdR0tKGwIbfWFGHRZSG0cHXUNRCV9DD0FYUkJaERQWX0BsS1ZKTEtVWAlURhVZEVIRHBoLUBlqAFoPWQdQTF1ZXUAbCRsKGxwbCV5aXhdcEGxAUQITWxdRDVgFUhFF
+http://dp-4034.datalink.cl:25461/live/5RUTvfRf3/mD2fb0Y3z1/3706.m3u8?token=QhpRUUoMEw4VB1FSUQYAXgVQA1sAAwMDVgBRA1dSXwENXVoJWlEHUFZBH0BAREoDUAxqClFDDVEECAIaEUZKVktnUFQbXhMAAlALQB8STA9cBBdZBU0VElpcFgwRAQ8ACAEbHBsBSUBSEV0DX29cA0cIVgYXW1kXX1QYFFxdZldcVVheXUYLFgdBH0BaQ0hEC0NgDVwPUhYTaxp3HRNdVhl7F2YXRh0WVQpHEFJEXUQLQwZRBlgVThFbW0NdR0tKGwIbfWFGHRZSG0cHXUNRCV9DD0FYUkJaERQWX0BsS1ZKTEtVWAlURhVZEVIRHBoLUBlqAFoPWQdQTF1ZXUAbCRsKGxwbCV5aXhdcEGxAUQITWxdRDVgFUhFF
+
+
 
 
 
 #EXTINF:-1,telemundo HD 2
-http://dp-4034.datalink.cl:25461/live/5RUTvfRf3/mD2fb0Y3z1/3706.m3u8?token=QhpRUUoMEw4VAQNWBARZUQhTBFECWVUDBwoNBlUCW1UOWlwAWFRTVVFBH0BAREoDUAxqClFDDVEECAIaEUZKVktnUFQbXhMAAlALQB8STA9cBBdZBU0VElpcFgwRAQoADggbHBsBSUBSEV0DX29cA0cIVgYXW1kXX1QYFFxdZldcVVheXUYLFgdBH0BaQ0hEC0NgDVwPUhYTaxp3HRNdVhl7F2YXRh0WVQpHEFJEXUQLQwZQB1kVThFbW0NdR0tKGwIbfWFGHRZSG0cHXUNRCV9DD0FYUkJaERQWX0BsS1ZKTEtVWAlURhVZEVIRHBoLUBlqAFoPWQdQTF1ZXUAbCRsKGxwbCV5aXhdcEGxAUQITWxdRDVgFUhFF
-
+http://dp-4034.datalink.cl:25461/live/5RUTvfRf3/mD2fb0Y3z1/3706.m3u8?token=QhpRUUoMEw4VWgtVClQAAgQDDQVUAwYEBl4AUgMEXQUJDggEAAUDBQRBH0BAREoDUAxqClFDDVEECAIaEUZKVktnUFQbXhMAAlALQB8STA9cBBdZBU0VElpcFgwRAQ8ACAEbHBsBSUBSEV0DX29cA0cIVgYXW1kXX1QYFFxdZldcVVheXUYLFgdBH0BaQ0hEC0NgDVwPUhYTaxp3HRNdVhl7F2YXRh0WVQpHEFJEXUQLQwZQDFYVThFbW0NdR0tKGwIbfWFGHRZSG0cHXUNRCV9DD0FYUkJaERQWX0BsS1ZKTEtVWAlURhVZEVIRHBoLUBlqAFoPWQdQTF1ZXUAbCRsKGxwbCV5aXhdcEGxAUQITWxdRDVgFUhFF
 
 
 
 
 #EXTINF:-1, Trutv
-http://s3.latinowebtv.ga:2082/livelwtv/243.m3u8?token=jGmrVWJ8mw0XdS6oOnlCxQ&expires=1526173487
+http://s1.latinowebtv.ga:2082/livelwtv/243.m3u8?token=-qjKIw0L_o14NM6AkWegtw&expires=1526252441
+
+
 
 
 #EXTINF:-1, DISTRITO COMEDIA HD
-http://s2.latinowebtv.ga:2082/livelwtv/224.m3u8?token=0tyznviryTjhxFjBJcI5tA&expires=1526173562
-
+http://s5.latinowebtv.ga:2082/livelwtv/224.m3u8?token=IJ6IY3rJxNt3CBmWNPjMLA&expires=1526252535
 
 
 #EXTINF:-1, Disney Chanell
-http://s7.latinowebtv.ga:2082/livelwtv/104.m3u8?token=5ZOqgPg9q8qm6l41wmeNaQ&expires=1526174135
-
+http://s2.latinowebtv.ga:2082/livelwtv/104.m3u8?token=B5T19TLVRLsB4k8E8D15tg&expires=1526252601
 
 
 #EXTINF:-1, Disney Jr.
-http://s7.latinowebtv.ga:2082/livelwtv/294.m3u8?token=RRq7y6owjzHFRTWt5o8GJA&expires=1526174260
+http://s5.latinowebtv.ga:2082/livelwtv/294.m3u8?token=8OGy7wzvAv6h7AGpZ5Ll0Q&expires=1526252643
 
 
 
 
 
 #EXTINF:-1,HISTORY CH
-http://s5.latinowebtv.ga:2082/livelwtv/233.m3u8?token=WUiKBI2fB_dAa449vd0E8g&expires=1526174322
+http://s6.latinowebtv.ga:2082/livelwtv/233.m3u8?token=VKpItLZxlgSuLtV_4uR1DQ&expires=1526252743
 
 
 
 
 
 #EXTINF:-1, NATGEO
-http://s4.latinowebtv.ga:2082/livelwtv/258.m3u8?token=8c9hjpdn-I0Dz3O7_pni5g&expires=1526174376
+http://s6.latinowebtv.ga:2082/livelwtv/258.m3u8?token=-RkEdqqkReoNY1w8iaYzbw&expires=1526252987
 
 
 
 
 #EXTINF:-1, gala tv
-http://s2.latinowebtv.ga:2082/livelwtv/246.m3u8?token=5CcR4lZ09lHTgrzgAoqvAA&expires=1526174445
+http://s7.latinowebtv.ga:2082/livelwtv/246.m3u8?token=iSC0GTdQn_NLU3pJJGLzrQ&expires=1526252822
 
 
 
 
 #EXTINF:-1, CINE CANAL
-http://s1.latinowebtv.ga:2082/livelwtv/132.m3u8?token=_cIgSSWfyuQHlYoen1SOig&expires=1526172159
+http://s3.latinowebtv.ga:2082/livelwtv/132.m3u8?token=AQsYYxTSQ8k4_Tw3YR6_wQ&expires=1526253023
+
+
+
+
+
+#EXTINF:-1, NICK JR.
+http://s5.latinowebtv.ga:2082/livelwtv/254.m3u8?token=CJD1HoAsv47ivyXJTKhjEA&expires=1526253222
+
+
+
+
+
+
+
 
 
 
