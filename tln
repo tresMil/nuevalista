@@ -1,21 +1,19 @@
 #EXTM3U
  
-#EXTINF:-1,TLNOVELAS
-http://s6.latinowebtv.ga:2082/livelwtv/221.m3u8?token=NlQjSmJGZdH8xTSUYsRl3Q&expires=1526448568
-
+#EXTINF:-1,TLNOVELAS 1
+http://s3.latinowebtv.ga:2082/livelwtv/221.m3u8?token=N7d5EtgI8nqcVWy5O3P_aQ&expires=1526506799
 
 
 
 #EXTINF:-1,TLNOVELAS opt2
-http://s3.latinowebtv.ga:2082/livelwtv/221.m3u8?token=FTUlxIWJEfIQzBzHSW0VVQ&expires=1526448421
+
 
 
 
 
 
 #EXTINF:-1,telemundo HD 
-http://162.244.80.177/loadbalance/17292484338278461283/chunks.m3u8?pxAuth=trB3fNbvrAQOp4Deuli6ey4ZWfInaZW1
-http://162.244.80.177/loadbalance/17292484338278461283/l_2461465_97351519_32450.ts
+
 
 
 
@@ -24,61 +22,55 @@ http://162.244.80.177/loadbalance/17292484338278461283/l_2461465_97351519_32450.
 
 
 #EXTINF:-1, Trutv
-http://s2.latinowebtv.ga:2082/livelwtv/243.m3u8?token=6ZLxa7EhZzyTDZ89s6XucA&expires=1526448309
 
 
 
 #EXTINF:-1, DISTRITO COMEDIA 
-http://s1.latinowebtv.ga:2082/livelwtv/224.m3u8?token=KIPmhz2sMbMxV6mI35kiSg&expires=1526448253
 
 
 
 #EXTINF:-1, Disney Chanell
-http://s6.latinowebtv.ga:2082/livelwtv/104.m3u8?token=OMg7MGFUp2RPjVZu3tjeXQ&expires=1526448100
+
 
 
 
 
 #EXTINF:-1, Disney Jr.
-http://s6.latinowebtv.ga:2082/livelwtv/294.m3u8?token=nou5Z1XYT9Hv98Q6zpHnfg&expires=1526448175
+
 
 
 
 
 #EXTINF:-1,HISTORY CH
-http://s7.latinowebtv.ga:2082/livelwtv/233.m3u8?token=APnFhL0gD89CVVfQaEHnoQ&expires=1526447207
+
 
 
 
 #EXTINF:-1, NATGEO
-http://s4.latinowebtv.ga:2082/livelwtv/258.m3u8?token=C5FzaWf-p1gg8o3IP5YYnQ&expires=1526447696
 
 
 
 
 #EXTINF:-1, gala tv
-http://s3.latinowebtv.ga:2082/livelwtv/246.m3u8?token=vU7KBrfKyGhQni78SubOpg&expires=1526447651
 
 
 
 #EXTINF:-1, max prime
-http://s2.latinowebtv.ga:2082/livelwtv/271.m3u8?token=z4kqWMwmY5emWagFlCFmqA&expires=1526447507
+
 
 
 
 #EXTINF:-1, NICK JR.
-http://s1.latinowebtv.ga:2082/livelwtv/254.m3u8?token=2ql5_dOfJXEbBd_DntyDkw&expires=1526447370
 
 
 
 #EXTINF:-1, DISCOVERY ID
-http://s1.latinowebtv.ga:2082/livelwtv/284.m3u8?token=UzgKkzF31-PMFemnP5N4bQ&expires=1526447441
 
 
 
 
 #EXTINF:-1, Golden HD
-http://s4.latinowebtv.ga:2082/livelwtv/133.m3u8?token=v15hiyrWsHGcyACrGSdQHA&expires=1526447286
+
 
 
 
