@@ -14,7 +14,12 @@ http://s1.latinowebtv.ga:2082/livelwtv/221.m3u8?token=2gMfeJVQ53r4k1sIY2j1vA&exp
 
 #EXTINF:-1,telemundo HD 
 
-
+#EXTINF:-1,telemundo
+http://freevectorlogo.net/wp-content/uploads/2011/06/telemundo-logo-vector-200x200.png"
+#EXTINF:-1,Telemundo
+http://vignette1.wikia.nocookie.net/inciclopedia/images/7/7a/Telemundo_tv_logo.png/revision/latest?cb=20071120204626,Telemundo
+#EXTINF:-1,Telenord Canal 10
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIDO0027&mode=12
 
 
 #EXTINF:-1,telemundo HD 2
